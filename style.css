@@ -1,0 +1,36 @@
+.square1 {
+    background-color: red;
+}
+
+.square2 {
+    background-color: blue;
+}
+
+.square3 {
+    background-color: green;
+}
+
+.square4 {
+    background-color:yellow;
+}
+
+.square div {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav li a:hover {
+    color: red;
+    transition: ease-in-out 0.2s;
+}

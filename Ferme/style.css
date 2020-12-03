@@ -1,0 +1,100 @@
+body {
+    background-color: grey;
+}
+
+.house, .prepare, .nutrition, .health, .discover {
+    background-color: white ;
+}
+
+.house {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.house h2 {
+    margin-right: 75%;
+    padding-top: 1%;
+}
+
+.house img {
+    width: 8%;
+    padding-right: 10px;
+}
+
+
+.prepare img, .discover img {
+    width: 35%;
+}
+
+main {
+    display: inline-block;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.nutrition, .health, .prepare, .discover {
+    width: 22%;
+    margin-left: 30px;
+    float: left;
+}
+
+main h2 {
+    font-size: 20px;
+    padding-left: 10px;
+    text-align: left;
+    width: 80%;
+}
+
+
+.nutrition img, .health img {
+    width: 100%;
+}
+
+.nutrition a, .health a {
+    padding-right: 210px;
+}
+
+
+.discover-1, .prepare-1 {
+    width: 100%;
+}
+
+.discover-1 img, .prepare-1 img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.discover-2, .prepare-2 {
+    width: 100%;
+}
+
+.discover-2 img, .prepare-2 img {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.disc-text1 a {
+    padding-right: 70px;
+}
+
+.disc-text2 a {
+    padding-right: 100px;
+}
+
+.disc-text2, .prepare-text2 {
+    padding-bottom: 10px;
+}
+
+.seeall {
+    padding-right: 210px;
+}
+
+.prepare-text2 a {
+    padding-right: 70px;
+}
+
+.prepare-text1 a {
+    padding-right: 50px;
+}
